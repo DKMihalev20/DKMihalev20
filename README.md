@@ -85,4 +85,4 @@
 
  
 
-# <style text-align = "center">Always think you have to be the best!</style>
+# Always think you have to be the best!
