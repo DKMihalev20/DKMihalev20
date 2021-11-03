@@ -16,7 +16,7 @@
 
 - 🚀&nbsp; I’m currently learning HTML5&CSS3 and C++ .
 - 👨‍💻&nbsp; Most of my projects can be found [here](https://github.com/Daniel878-code?tab=repositories).
-- 📫&nbsp; How to reach me: dkmihalev20@codingburgas.bg
+- 📫&nbsp; Get in touch with me: dkmihalev20@codingburgas.bg
 
  
 
