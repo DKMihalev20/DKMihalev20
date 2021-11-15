@@ -84,5 +84,6 @@
 <hr>
 
  
-
+<div align = "center">
 # Always think you have to be the best!
+</div>
