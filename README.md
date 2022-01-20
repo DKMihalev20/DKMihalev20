@@ -1,6 +1,8 @@
 # 🧑Hi, my name is [Daniel Mihalev!](https://github.com/Daniel878-code/DKMihalev2)👋
 
- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Daniel878-code&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
+<br>
 
 <hr>
 
