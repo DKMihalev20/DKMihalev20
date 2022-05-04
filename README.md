@@ -17,9 +17,10 @@
 ### Languages and Tools:
 
 <code><img alt="HTML" width="40px" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
-<code><img alt="CSS3" width="40px" src="https://img.icons8.com/color/48/000000/css3.png" ></code>
-<code><img alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" ></code>
-<code><img alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
+<code><img alt="CSS3" width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+<code><img alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
+<code><img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png" width="40px"/></code>
+<code><img alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
 <code><img  alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
 
 <hr>
