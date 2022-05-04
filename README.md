@@ -28,9 +28,9 @@
 
 ### Contact me:
 
-<a href="https://www.facebook.com/daniel.mihalev.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="test" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mihalev_202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="test" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="test" height="30" width="40" /></a>
+<code><a href="https://www.facebook.com/daniel.mihalev.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="test" height="30" width="40" /></a></code>
+<code><a href="https://www.instagram.com/mihalev_202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="test" height="30" width="40" /></a></code>
+<code><a href="https://www.youtube.com/c/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="test" height="30" width="40" /></a></code>
 
 <hr>
 
