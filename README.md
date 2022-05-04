@@ -62,4 +62,4 @@
 
 <div align="center">
  
- # Always think that you have to be the best!
+ # Always think - I have to be the best!
