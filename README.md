@@ -10,7 +10,7 @@
 
 - 🎓&nbsp;I’m currently learning HTML5&CSS3 and C++ .
 - 👨‍💻&nbsp;Most of my projects can be found [here](https://github.com/Daniel878-code?tab=repositories).
-- 📫&nbsp;Get in touch with me: [Email](mailto:dkmihalev20@codingburgas.bg)
+- 📫&nbsp;Get in touch with me: [email](mailto:dkmihalev20@codingburgas.bg)
 
 <hr>
 
@@ -30,7 +30,6 @@
 
 <code><a href="https://www.facebook.com/daniel.mihalev.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="test" height="30" width="40" /></a></code>
 <code><a href="https://www.instagram.com/mihalev_202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="test" height="30" width="40" /></a></code>
-<code><a href="https://www.youtube.com/c/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="test" height="30" width="40" /></a></code>
 
 <hr>
 
