@@ -1,6 +1,6 @@
-# 🧑Hi, my name is [Daniel Mihalev!](https://github.com/Daniel878-code/DKMihalev2)👋
+# 🧑Hi, my name is [Daniel Mihalev!](https://github.com/DKMihalev20)👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Daniel878-code&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DKMihalev20&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <hr>
 
@@ -9,7 +9,7 @@
 ## Talking about personal Stuffs:
 
 - 🎓&nbsp;I’m currently learning HTML5&CSS3 and C++ .
-- 👨‍💻&nbsp;Most of my projects can be found [here](https://github.com/Daniel878-code?tab=repositories).
+- 👨‍💻&nbsp;Most of my projects can be found [here](https://github.com/DKMihalev20?tab=repositories).
 - 📫&nbsp;Get in touch with me: [email](mailto:dkmihalev20@codingburgas.bg)
 
 <hr>
@@ -20,7 +20,7 @@
 <code><img alt="CSS3" width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40"/></code>
 <code><img alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
-<code><img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png" width="40"/></code>
+<code><img width="40px" height="40px" src="https://img.icons8.com/fluency/48/visual-studio.png" alt="visual-studio"/></code>
 <code><img alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
 <code><img  alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
 
@@ -38,11 +38,11 @@
 <details>    
   <summary><b>⚡ Github Stats</b></summary>
  
-  ![Grade](https://github-readme-stats.vercel.app/api?username=Daniel878-code&show_icons=true&theme=radical&count_private=true)
+  ![Grade](https://github-readme-stats.vercel.app/api?username=DKMihalev20&show_icons=true&theme=radical&count_private=true)
   
   <br>
   
-  <a href="https://github.com/Daniel878-code/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Daniel878-code&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/DKMihalev20/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DKMihalev20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </details>
 
 <details>
